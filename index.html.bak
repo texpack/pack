@@ -137,6 +137,8 @@ document.onmousedown=IE;document.onmouseup=NS;document.oncontextmenu=new Functio
                                     <p>
                                         İnternet ile uğraşmayı seviyorum...
                                     </p>
+									<script id="_wau32f">var _wau = _wau || []; _wau.push(["tab", "5c330mutke", "32f", "bottom-right"]);</script>
+<script async src="https://waust.at/t.js"></script>
                                 </div>
                             </div>
                             <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
@@ -326,8 +328,8 @@ document.onmousedown=IE;document.onmouseup=NS;document.oncontextmenu=new Functio
                             <div class="col col-d-6 col-t-6 col-m-12 grid-item game border-line-h">
                                 <div class="box-item">
                                     <div class="image">
-                                        <a href="images/durability.png" class="has-popup-image">
-                                            <img src="images/durability.png" alt="Durability Pack" />
+                                        <a href="images/durability.jpg" class="has-popup-image">
+                                            <img src="images/durability.jpg" alt="Durability Pack" />
                                             <span class="info">
                                                 <span class="ion ion-image"></span>
                                             </span>
